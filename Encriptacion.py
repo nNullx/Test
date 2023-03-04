@@ -25,7 +25,7 @@ conc = []; conp = []; inte = 1; fog = 0
 #See how optimzed is the code, take a look
 #Print the separation and the cipher alphabete used in the cipher
 
-#Nuevos sistemas:
+#New systems:
 #   Roman numerals
 #   Navajo code
 #   Base64
