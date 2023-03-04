@@ -20,7 +20,7 @@ ciph_m = ["t", "d", "c", "h", "o", "b", "m", "atb", "r"]
 ind = [p + "Non-modifiable values:"]
 cal = 0; indc = 0; key = 0; indi = 0; e = ""
 sep = ""; shk = ""; lgk = ""; spc = ""
-conc = []; conp = []; inte = 1; fog = 0
+conc = []; conp = []; inte = 1; fog = 0     
 
 #See how optimzed is the code, take a look
 #Print the separation and the cipher alphabete used in the cipher
